@@ -1,6 +1,6 @@
-package ExerciciosManzano;
+package ExerciciosMar2007;
 
-public class Ex3_a {
+public class Ex16 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
